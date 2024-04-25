@@ -18,10 +18,10 @@ The Bookstore Mobile App is your one-stop destination for discovering, purchasin
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="assets/screenshot1.png" alt="Screenshot 1" style="width: 30%;">
-    <img src="assets/screenshot2.png" alt="Screenshot 2" style="width: 30%;">
-    <img src="assets/screenshot3.png" alt="Screenshot 3" style="width: 30%;">
-    <img src="assets/screenshot4.png" alt="Screenshot 4" style="width: 30%;">
+    <img src="assets/screenshot1.png" alt="Screenshot 1" style="width: 25%;">
+    <img src="assets/screenshot2.png" alt="Screenshot 2" style="width: 25%;">
+    <img src="assets/screenshot3.png" alt="Screenshot 3" style="width: 25%;">
+    <img src="assets/screenshot4.png" alt="Screenshot 4" style="width: 25%;">
 </div>
 
 ## Getting Started
