@@ -17,10 +17,10 @@ The Bookstore Mobile App is your one-stop destination for discovering, purchasin
 
 ## Screenshots
 
-![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshot2.png)
-![Screenshot 3](screenshot3.png)
-![Screenshot 4](screenshot4.png)
+![Screenshot 1](assets/screenshot1.png)
+![Screenshot 2](assets/screenshot2.png)
+![Screenshot 3](assets/screenshot3.png)
+![Screenshot 4](assets/screenshot4.png)
 
 ## Getting Started
 
